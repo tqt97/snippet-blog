@@ -1,0 +1,21 @@
+{
+  "locales": [
+    "en",
+    "vi"
+  ],
+  "defaultLocale": "vi",
+  "localeDetection": false,
+  "pages": {
+    "*": [
+      "common",
+      "headerNavLinks",
+      "newsletter",
+      "404",
+      "SEO",
+      "nav"
+    ],
+    "/projects": [
+      "projects"
+    ]
+  }
+}
